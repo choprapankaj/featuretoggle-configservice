@@ -1,1 +1,1 @@
-REGISTRATION_SERVER_ENDPOINT=http://registration-service/
+spring.cloud.config.server.git.skip-ssl-validation=true
